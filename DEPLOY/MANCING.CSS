@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Faustina:ital@1&display=swap');
+
+
+body{
+    font-family: 'Faustina', serif;
+}
+
+.navbar .bg-light{
+    background-color: white;
+}
+
+.navbar .navbar-brand{
+    font-weight: 700;
+    color: #131313;
+}
+
+.navbar .nav-link{
+    font-weight: 500;
+    color: black;
+    text-transform: uppercase;
+}
+
+
+.hero .card-title{
+    margin-top: 150px;
+    
+}
+
+
+.menu {
+    background-color: #f6f6f6;
+}
+
+.menu .section-title{
+    font-weight: 700;
+    color: #131313;
+}
+
+.menu .section-paragraf {
+    font-weight: 500;
+    color: #131313;
+}
+
+.menu .card{
+    background-color: #050a30;
+    color: #fff;
+}
+
+.menu .card img{
+    border: 1px solid #fff;
+    height: 200px; 
+    object-fit: cover; 
+}
+
+.menu .card .card-title{
+    margin-top: 20px;
+    font-weight: 250;
+    
+}
+
+.menu .card .btn {
+    font-weight: 500;
+    
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+
+.card-body {
+    padding: 15px;
+}
+

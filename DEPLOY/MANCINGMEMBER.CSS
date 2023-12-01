@@ -1,0 +1,43 @@
+
+
+body {
+    background-color:#050a30;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    color: #050a30;
+}
+
+.form-check-label {
+    color: #050a30;
+  
+}
+
+
+.btn.btn-primary {
+    background-color: #050a30; 
+    border-color: #050a30; 
+}
+
+.btn.btn-primary:hover {
+    background-color: #050a30; 
+    border-color: #050a30; 
+}
+
+
+.text-decoration-none {
+    color: #050a30;
+}
+
+.text-decoration-none:hover {
+    text-decoration: underline;
+}
+.text-center{
+    text-align: center;
+}
